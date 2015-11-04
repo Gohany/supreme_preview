@@ -1,0 +1,415 @@
+{
+	"USE": {
+		"label": "United States East",
+		"countries": [
+			"US"
+		],
+		"latitude": "37.822802000000",
+		"longitude": "-79.057617000000"
+	},
+	"USW": {
+		"label": "United States West",
+		"countries": [
+			"US"
+		],
+		"latitude": "41.442726000000",
+		"longitude": "-115.927734000000"
+	},
+	"CA": {
+		"label": "Canada",
+		"countries": [
+			"CA"
+		],
+		"latitude": "60.973107000000",
+		"longitude": "-96.328125000000"
+	},
+	"LAT": {
+		"label": "Latin America",
+		"countries": [
+			"AG",
+			"AI",
+			"AN",
+			"AR",
+			"AW",
+			"BB",
+			"BL",
+			"BM",
+			"BO",
+			"BR",
+			"BS",
+			"BZ",
+			"CL",
+			"CO",
+			"CR",
+			"CU",
+			"DM",
+			"DO",
+			"EC",
+			"FK",
+			"GD",
+			"GF",
+			"GP",
+			"GS",
+			"GT",
+			"GY",
+			"HN",
+			"HT",
+			"JM",
+			"KN",
+			"KY",
+			"LC",
+			"MF",
+			"MQ",
+			"MS",
+			"MX",
+			"NI",
+			"PA",
+			"PM",
+			"PR",
+			"PE",
+			"PY",
+			"SR",
+			"SV",
+			"TC",
+			"TT",
+			"UY",
+			"VC",
+			"VE",
+			"VG",
+			"VI"
+		],
+		"latitude": "-19.145168000000",
+		"longitude": "-60.820312000000"
+	},
+	"EU_Nordic": {
+		"label": "Europe Nordic",
+		"countries": [
+			"AX",
+			"DK",
+			"FI",
+			"FO",
+			"GL",
+			"IS",
+			"NO",
+			"SE"
+		],
+		"latitude": "65.072130000000",
+		"longitude": "17.050781000000"
+	},
+	"EU_Rest": {
+		"label": "Europe Rest",
+		"countries": [
+			"AD",
+			"AL",
+			"AT",
+			"BA",
+			"BE",
+			"BG",
+			"CH",
+			"CZ",
+			"EE",
+			"ES",
+			"EU",
+			"FR",
+			"FX",
+			"GB",
+			"GG",
+			"GI",
+			"GR",
+			"HR",
+			"HU",
+			"IE",
+			"IM",
+			"IT",
+			"JE",
+			"LI",
+			"LT",
+			"LU",
+			"LV",
+			"MC",
+			"ME",
+			"MK",
+			"MT",
+			"NL",
+			"PL",
+			"PT",
+			"RO",
+			"RS",
+			"SI",
+			"SJ",
+			"SK",
+			"SM",
+			"TR",
+			"VA"
+		],
+		"latitude": "46.860191000000",
+		"longitude": "13.974609000000"
+	},
+	"DE": {
+		"label": "Germany",
+		"countries": [
+			"DE"
+		],
+		"latitude": "51.289406000000",
+		"longitude": "9.931641000000"
+	},
+	"M_East": {
+		"label": "Middle East",
+		"countries": [
+			"AE",
+			"AF",
+			"BH",
+			"CY",
+			"EG",
+			"IR",
+			"IQ",
+			"IL",
+			"JO",
+			"KW",
+			"LB",
+			"OM",
+			"PS",
+			"QA",
+			"SA",
+			"SY",
+			"TR",
+			"YE"
+		],
+		"latitude": "30.902225000000",
+		"longitude": "48.779297000000"
+	},
+	"CIS": {
+		"label": "Commonwealth of Independant States (Former USSR)",
+		"countries": [
+			"AM",
+			"AZ",
+			"BY",
+			"GE",
+			"KG",
+			"KZ",
+			"MD",
+			"RU",
+			"TJ",
+			"TM",
+			"UA",
+			"UZ"
+		],
+		"latitude": "59.578851000000",
+		"longitude": "77.080078000000"
+	},
+	"Oceania": {
+		"label": "Oceania",
+		"countries": [
+			"AS",
+			"AU",
+			"AQ",
+			"CK",
+			"FJ",
+			"FM",
+			"GU",
+			"HM",
+			"KI",
+			"MH",
+			"MP",
+			"NC",
+			"NF",
+			"NR",
+			"NU",
+			"NZ",
+			"PF",
+			"PG",
+			"PN",
+			"PW",
+			"SB",
+			"TF",
+			"TK",
+			"TO",
+			"TV",
+			"UM",
+			"VU",
+			"WF",
+			"WS"
+		],
+		"latitude": "-26.115986000000",
+		"longitude": "135.791016000000"
+	},
+	"ID": {
+		"label": "Indonesia",
+		"countries": [
+			"ID"
+		],
+		"latitude": "21.861499000000",
+		"longitude": "78.134766000000"
+	},
+	"KR": {
+		"label": "South Korea",
+		"countries": [
+			"KR"
+		],
+		"latitude": "36.385913000000",
+		"longitude": "127.749023000000"
+	},
+	"TH": {
+		"label": "Thailand",
+		"countries": [
+			"TH"
+		],
+		"latitude": "15.623037000000",
+		"longitude": "101.030273000000"
+	},
+	"SG": {
+		"label": "Singapore",
+		"countries": [
+			"SG"
+		],
+		"latitude": "1.358058000000",
+		"longitude": "103.819427000000"
+	},
+	"JP": {
+		"label": "Japan",
+		"countries": [
+			"JP"
+		],
+		"latitude": "36.597889000000",
+		"longitude": "138.911133000000"
+	},
+	"VN": {
+		"label": "Vietnam",
+		"countries": [
+			"VN"
+		],
+		"latitude": "14.243087000000",
+		"longitude": "108.566895000000"
+	},
+	"MY": {
+		"label": "Malaysia",
+		"countries": [
+			"MY"
+		],
+		"latitude": "3.995781000000",
+		"longitude": "102.172852000000"
+	},
+	"IN": {
+		"label": "India",
+		"countries": [
+			"IN"
+		],
+		"latitude": "-3.403758000000",
+		"longitude": "122.080078000000"
+	},
+	"TW": {
+		"label": "Taiwan",
+		"countries": [
+			"TW"
+		],
+		"latitude": "23.805450000000",
+		"longitude": "121.036377000000"
+	},
+	"PH": {
+		"label": "Philippines",
+		"countries": [
+			"PH"
+		],
+		"latitude": "12.211180000000",
+		"longitude": "122.607422000000"
+	},
+	"CN": {
+		"label": "China",
+		"countries": [
+			"CN"
+		],
+		"latitude": "34.234512000000",
+		"longitude": "105.556641000000"
+	},
+	"Asia_Rest": {
+		"label": "Asia Rest",
+		"countries": [
+			"AP",
+			"AZ",
+			"BD",
+			"BN",
+			"BT",
+			"CC",
+			"HK",
+			"IO",
+			"KH",
+			"KR",
+			"LA",
+			"LK",
+			"MM",
+			"MN",
+			"MO",
+			"MV",
+			"NP",
+			"PK",
+			"TL",
+			"TW"
+		],
+		"latitude": "26.194877000000",
+		"longitude": "97.382813000000"
+	},
+	"Africa": {
+		"label": "Africa",
+		"countries": [
+			"AO",
+			"BF",
+			"BI",
+			"BJ",
+			"BV",
+			"BW",
+			"CD",
+			"CF",
+			"CG",
+			"CI",
+			"CM",
+			"CV",
+			"DJ",
+			"DZ",
+			"EH",
+			"ER",
+			"ET",
+			"GA",
+			"GH",
+			"GM",
+			"GN",
+			"GQ",
+			"GW",
+			"KE",
+			"KM",
+			"LR",
+			"LS",
+			"LY",
+			"MA",
+			"MG",
+			"ML",
+			"MR",
+			"MU",
+			"MW",
+			"MZ",
+			"NA",
+			"NE",
+			"NG",
+			"RE",
+			"RW",
+			"SC",
+			"SD",
+			"SH",
+			"SL",
+			"SN",
+			"SO",
+			"ST",
+			"SZ",
+			"TD",
+			"TG",
+			"TN",
+			"TZ",
+			"UG",
+			"YT",
+			"ZA",
+			"ZM",
+			"ZW"
+		],
+		"latitude": "15.623037000000",
+		"longitude": "101.030273000000"
+	}
+}
